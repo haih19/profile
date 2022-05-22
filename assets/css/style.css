@@ -32,7 +32,7 @@ html{
 }
 
 #header-logo p{
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -57,7 +57,7 @@ html{
 #header-nav li a{
     width: inherit;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     color: #010101;
     padding: 0 30px;
